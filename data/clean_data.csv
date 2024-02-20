@@ -1,0 +1,501 @@
+tree_id,block_id,created_at,tree_dbh,stump_diam,curb_loc,status,health,spc_latin,spc_common,sidewalk,problems,trunk_wire,brch_shoe,address,borough
+180683,348711,2015-08-27,3,0,OnCurb,Alive,Fair,Acer rubrum,red maple,NoDamage,None,No,No,108-005 70 AVENUE,Queens
+200540,315986,2015-09-03,21,0,OnCurb,Alive,Fair,Quercus palustris,pin oak,Damage,Stones,No,No,147-074 7 AVENUE,Queens
+204026,218365,2015-09-05,3,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,390 MORGAN AVENUE,Brooklyn
+204337,217969,2015-09-05,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,Stones,No,No,1027 GRAND STREET,Brooklyn
+189565,223043,2015-08-30,21,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,Stones,No,No,603 6 STREET,Brooklyn
+190422,106099,2015-08-30,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,8 COLUMBUS AVENUE,Manhattan
+190426,106099,2015-08-30,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,120 WEST 60 STREET,Manhattan
+208649,103940,2015-09-07,9,0,OnCurb,Alive,Good,Tilia americana,American linden,NoDamage,MetalGrates,No,No,311 WEST 50 STREET,Manhattan
+209610,407443,2015-09-08,6,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,65 JEROME AVENUE,Staten Island
+192755,207508,2015-08-31,21,0,OffsetFromCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,None,No,No,638 AVENUE Z,Brooklyn
+203719,302371,2015-09-05,11,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,20-025 24 STREET,Queens
+203726,302371,2015-09-05,8,0,OnCurb,Alive,Poor,Platanus x acerifolia,London planetree,NoDamage,None,No,No,20-055 24 STREET,Queens
+195202,415896,2015-09-01,13,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,Stones,No,No,35 FENWAY CIRCLE,Staten Island
+189465,219493,2015-08-30,22,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,RootOther,No,No,100 WAVERLY AVENUE,Brooklyn
+192998,211160,2015-08-31,30,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,StonesBranchOther,No,No,2126 UNION STREET,Brooklyn
+189834,219505,2015-08-30,12,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,449 MYRTLE AVENUE,Brooklyn
+204208,204913,2015-09-05,2,0,OnCurb,Alive,Fair,Ginkgo biloba,ginkgo,Damage,None,No,No,8797 25 AVENUE,Brooklyn
+161339,230864,2015-08-20,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,1601 CHURCH AVENUE,Brooklyn
+187311,342816,2015-08-29,14,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,TrunkLightsBranchLights,No,No,55-026 96 STREET,Queens
+208201,219258,2015-09-07,10,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,Stones,No,No,206 CARLTON AVENUE,Brooklyn
+193093,225564,2015-08-31,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,367 PROSPECT AVENUE,Brooklyn
+193310,107600,2015-08-31,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,RootOtherTrunkOtherBranchOther,No,No,170 EAST 75 STREET,Manhattan
+199760,107038,2015-09-03,4,0,OnCurb,Alive,Fair,Quercus phellos,willow oak,NoDamage,None,No,No,2163 BROADWAY,Manhattan
+204325,415427,2015-09-05,9,0,OnCurb,Alive,Good,Acer pseudoplatanus,sycamore maple,NoDamage,BranchOther,No,No,301 THOMAS STREET,Staten Island
+189700,223525,2015-08-30,2,0,OnCurb,Alive,Good,Quercus phellos,willow oak,NoDamage,None,No,No,26 8 AVENUE,Brooklyn
+205044,206800,2015-09-05,5,0,OnCurb,Alive,Good,Acer ginnala,Amur maple,NoDamage,Stones,No,No,134 BAY 40 STREET,Brooklyn
+192942,310298,2015-08-31,33,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,StonesBranchLights,No,No,84-036 127 STREET,Queens
+195265,227489,2015-09-01,19,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,401 AVENUE O,Brooklyn
+201555,102919,2015-09-04,9,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,71 STANTON STREET,Manhattan
+208407,345512,2015-09-07,9,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,TrunkOtherBranchLights,No,No,1817 DE KALB AVENUE,Queens
+189164,223133,2015-08-30,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,456 5 AVENUE,Brooklyn
+184375,505172,2015-08-29,3,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,Stones,No,No,2022 LA FONTAINE AVENUE,Bronx
+187056,106107,2015-08-29,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,MetalGratesTrunkOther,No,No,1880 BROADWAY,Manhattan
+187058,106107,2015-08-29,5,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,MetalGratesTrunkOther,No,No,1 WEST 62 STREET,Manhattan
+178659,406774,2015-08-26,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,434 RARITAN AVENUE,Staten Island
+190423,106099,2015-08-30,12,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,120 WEST 60 STREET,Manhattan
+190425,106099,2015-08-30,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,120 WEST 60 STREET,Manhattan
+211205,302080,2015-09-09,0,16,OnCurb,Stump,,,,,,No,No,21-023 24 DRIVE,Queens
+204202,415447,2015-09-05,12,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,Stones,No,No,328 THOMAS STREET,Staten Island
+184031,504204,2015-08-29,3,0,OnCurb,Alive,Good,Acer rubrum,red maple,NoDamage,None,No,No,223 EAST 179 STREET,Bronx
+201494,406253,2015-09-04,24,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,Stones,No,No,6 ALLISON PLACE,Staten Island
+208346,106403,2015-09-07,20,0,OffsetFromCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,418 COLUMBUS AVENUE,Manhattan
+181710,207966,2015-08-28,13,0,OnCurb,Alive,Good,Quercus phellos,willow oak,NoDamage,None,No,No,267 WEST END AVENUE,Brooklyn
+178382,106001,2015-08-26,12,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,None,No,No,520 EAST 20 STREET,Manhattan
+193690,227528,2015-09-01,36,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,Stones,No,No,6018 24 AVENUE,Brooklyn
+196089,310255,2015-09-02,29,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,Stones,No,No,84-037 124 STREET,Queens
+191988,102326,2015-08-31,6,0,OnCurb,Alive,Good,Quercus phellos,willow oak,NoDamage,None,No,No,73 WEST HOUSTON STREET,Manhattan
+203720,302371,2015-09-05,9,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,20-025 24 STREET,Queens
+189339,219520,2015-08-30,18,0,OffsetFromCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,79 HALL STREET,Brooklyn
+208230,106402,2015-09-07,13,0,OffsetFromCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,TrunkOther,No,No,1 WEST 81 STREET,Manhattan
+204413,204940,2015-09-05,13,0,OnCurb,Alive,Good,Quercus phellos,willow oak,NoDamage,None,No,No,2435 HARWAY AVENUE,Brooklyn
+161193,409065,2015-08-20,9,0,OnCurb,Alive,Good,Quercus phellos,willow oak,NoDamage,TrunkOther,No,No,86 BOGOTA STREET,Staten Island
+196132,206122,2015-09-02,19,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,2347 63 STREET,Brooklyn
+196223,310465,2015-09-02,17,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,None,No,No,80-025 126 STREET,Queens
+192888,210568,2015-08-31,32,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,StonesBranchLights,No,No,3778 BEDFORD AVENUE,Brooklyn
+192890,210568,2015-08-31,28,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,StonesWiresRope,Yes,No,3782 BEDFORD AVENUE,Brooklyn
+197978,310798,2015-09-02,7,0,OnCurb,Alive,Good,Quercus palustris,pin oak,Damage,None,No,No,160-001 59 AVENUE,Queens
+187807,506266,2015-08-29,0,0,OnCurb,Dead,,,,,,No,No,300 EAST MOSHOLU PARKWAY SOUTH,Bronx
+178601,410841,2015-08-26,10,0,OnCurb,Alive,Fair,Quercus palustris,pin oak,NoDamage,BranchLights,No,No,229 HALES AVENUE,Staten Island
+184317,505563,2015-08-29,5,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,Stones,No,No,4634 3 AVENUE,Bronx
+200225,106629,2015-09-03,8,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,565 WEST END AVENUE,Manhattan
+208974,414958,2015-09-08,10,0,OnCurb,Alive,Good,Acer rubrum,red maple,NoDamage,None,No,No,227 FINLEY AVENUE,Staten Island
+198146,411699,2015-09-02,6,0,OnCurb,Alive,Good,Acer rubrum,red maple,Damage,Stones,No,No,189 NIPPON AVENUE,Staten Island
+198121,104405,2015-09-02,8,0,OnCurb,Alive,Fair,Quercus palustris,pin oak,Damage,StonesBranchOther,No,No,100 EAST 31 STREET,Manhattan
+195252,102084,2015-09-01,5,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,138 WEST 11 STREET,Manhattan
+204355,415383,2015-09-05,5,0,OnCurb,Alive,Good,Acer campestre,hedge maple,NoDamage,None,No,No,89 WEST CEDARVIEW AVENUE,Staten Island
+205759,301278,2015-09-06,26,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,22-048 74 STREET,Queens
+201654,224121,2015-09-04,10,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,299 COLUMBIA STREET,Brooklyn
+198514,108318,2015-09-02,18,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,Stones,No,No,1 MORNINGSIDE DRIVE,Manhattan
+203334,340820,2015-09-04,11,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,TrunkOther,No,No,35-021 79 STREET,Queens
+200628,315984,2015-09-03,25,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,Stones,No,No,147-043 8 AVENUE,Queens
+186888,506316,2015-08-29,15,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,None,No,No,249 EAST MOSHOLU PARKWAY NORTH,Bronx
+196373,103300,2015-09-02,13,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,54 ALLEN STREET,Manhattan
+209441,503960,2015-09-08,5,0,OnCurb,Alive,Poor,Ulmus americana,American elm,NoDamage,Stones,No,No,75 FEATHERBED LANE,Bronx
+206435,210654,2015-09-06,26,0,OnCurb,Alive,Good,Acer pseudoplatanus,sycamore maple,Damage,None,No,No,2438 EAST 7 STREET,Brooklyn
+196080,310272,2015-09-02,36,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,StonesBranchLights,No,No,84-006 124 STREET,Queens
+203759,302373,2015-09-05,16,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,None,No,No,24-015 21 AVENUE,Queens
+190359,107635,2015-08-30,13,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,RootOtherTrunkOtherBranchOther,No,No,1326 3 AVENUE,Manhattan
+209909,504038,2015-09-08,2,0,OnCurb,Alive,Good,Ulmus americana,American elm,NoDamage,None,No,No,1840 GRAND CONCOURSE,Bronx
+180295,106100,2015-08-27,2,0,OnCurb,Alive,Good,Ulmus americana,American elm,NoDamage,WiresRopeBranchOther,Yes,No,13 WEST 61 STREET,Manhattan
+208373,106403,2015-09-07,4,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,390 COLUMBUS AVENUE,Manhattan
+196205,206082,2015-09-02,22,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,2348 63 STREET,Brooklyn
+192086,203718,2015-08-31,28,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,Stones,No,No,8923 RIDGE BOULEVARD,Brooklyn
+203550,348013,2015-09-04,42,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,StonesBranchLights,No,No,90-008 69 AVENUE,Queens
+203718,302371,2015-09-05,12,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,20-015 24 STREET,Queens
+208832,220174,2015-09-08,3,0,OnCurb,Alive,Poor,Platanus x acerifolia,London planetree,NoDamage,RootOtherBranchOther,No,No,237 WILLOUGHBY AVENUE,Brooklyn
+193183,348404,2015-08-31,3,0,OnCurb,Alive,Good,Acer ginnala,Amur maple,NoDamage,None,No,No,75-009 AUSTIN STREET,Queens
+203577,348022,2015-09-04,26,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,StonesBranchLights,No,No,89-003 69 AVENUE,Queens
+179477,223106,2015-08-27,3,0,OnCurb,Alive,Poor,Platanus x acerifolia,London planetree,NoDamage,None,No,No,290 7 AVENUE,Brooklyn
+203386,347979,2015-09-04,26,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,StonesBranchLights,No,No,92-018 70 AVENUE,Queens
+189537,223141,2015-08-30,18,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,53 PROSPECT PARK WEST,Brooklyn
+196130,206122,2015-09-02,24,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,StonesWiresRope,Yes,No,2327 63 STREET,Brooklyn
+200676,229928,2015-09-03,32,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,Stones,No,No,1020 EAST 16 STREET,Brooklyn
+206326,301258,2015-09-06,13,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,None,No,No,22-058 77 STREET,Queens
+204118,415444,2015-09-05,11,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,125 WEST CEDARVIEW AVENUE,Staten Island
+192653,207574,2015-08-31,22,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,2536 OCEAN PARKWAY,Brooklyn
+203592,348060,2015-09-04,38,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,StonesBranchLights,No,No,90-013 69 AVENUE,Queens
+189338,219520,2015-08-30,18,0,OffsetFromCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,Stones,No,No,88 HALL STREET,Brooklyn
+208240,106402,2015-09-07,2,0,OffsetFromCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,11 WEST 81 STREET,Manhattan
+208247,106402,2015-09-07,29,0,OnCurb,Alive,Fair,Ulmus americana,American elm,NoDamage,None,No,No,15 WEST 81 STREET,Manhattan
+204203,415447,2015-09-05,11,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,StonesBranchOther,No,No,328 THOMAS STREET,Staten Island
+203385,347979,2015-09-04,23,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,StonesBranchLights,No,No,92-018 70 AVENUE,Queens
+196372,103300,2015-09-02,12,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,56 ALLEN STREET,Manhattan
+192889,210568,2015-08-31,27,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,StonesBranchLights,No,No,3778 BEDFORD AVENUE,Brooklyn
+203760,302373,2015-09-05,2,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,24-015 21 AVENUE,Queens
+203767,302373,2015-09-05,14,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,None,No,No,20-038 CRESCENT STREET,Queens
+208458,312916,2015-09-07,2,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,167-001 33 AVENUE,Queens
+209919,108875,2015-09-08,9,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,2990 BROADWAY,Manhattan
+198296,231792,2015-09-02,29,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,Stones,No,No,5402 BEVERLY ROAD,Brooklyn
+204169,415381,2015-09-05,20,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,StonesWiresRopeBranchLights,Yes,No,190 WOLVERINE STREET,Staten Island
+208338,106403,2015-09-07,5,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,None,No,No,424 COLUMBUS AVENUE,Manhattan
+196131,206122,2015-09-02,29,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,Stones,No,No,2345 63 STREET,Brooklyn
+196374,103300,2015-09-02,13,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,50 ALLEN STREET,Manhattan
+208463,103960,2015-09-07,14,0,OnCurb,Alive,Good,Fraxinus,ash,NoDamage,None,No,No,725 9 AVENUE,Manhattan
+201661,348116,2015-09-04,6,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,WiresRopeBranchOther,Yes,No,96-008 70 AVENUE,Queens
+203769,302373,2015-09-05,3,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,20-024 CRESCENT STREET,Queens
+208456,312916,2015-09-07,36,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,Stones,No,No,167-011 33 AVENUE,Queens
+209921,108875,2015-09-08,3,0,OffsetFromCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,2966 BROADWAY,Manhattan
+189840,311123,2015-08-30,13,0,OnCurb,Alive,Good,Acer ginnala,Amur maple,Damage,BranchLights,No,No,138-008 56 AVENUE,Queens
+203887,108342,2015-09-05,5,0,OnCurb,Alive,Good,Quercus phellos,willow oak,NoDamage,WiresRope,Yes,No,415 WEST 115 STREET,Manhattan
+200654,311719,2015-09-03,6,0,OnCurb,Alive,Fair,Acer ginnala,Amur maple,Damage,None,No,No,41-058 COLLEGE POINT BOULEVARD,Queens
+196440,108889,2015-09-02,5,0,OnCurb,Alive,Fair,Ulmus americana,American elm,NoDamage,None,No,No,475 RIVERSIDE DRIVE,Manhattan
+204246,415345,2015-09-05,8,0,OnCurb,Alive,Good,Acer campestre,hedge maple,NoDamage,StonesBranchLights,No,No,208 WOLVERINE STREET,Staten Island
+193014,211158,2015-08-31,22,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,713 RALPH AVENUE,Brooklyn
+180707,230024,2015-08-27,17,0,OnCurb,Alive,Fair,Quercus palustris,pin oak,Damage,Stones,No,No,1439 OCEAN AVENUE,Brooklyn
+198230,411696,2015-09-02,10,0,OnCurb,Alive,Good,Acer rubrum,red maple,Damage,WiresRopeBranchLights,Yes,No,561 LAMONT AVENUE,Staten Island
+192814,102227,2015-08-31,7,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,345 WEST 13 STREET,Manhattan
+179828,102993,2015-08-27,1,0,OnCurb,Alive,Good,Acer rubrum,red maple,NoDamage,None,No,No,190 FORSYTH STREET,Manhattan
+196765,310309,2015-09-02,20,0,OnCurb,Alive,Fair,Quercus palustris,pin oak,NoDamage,Stones,No,No,84-061 ABINGDON ROAD,Queens
+178599,410841,2015-08-26,13,0,OnCurb,Alive,Good,Quercus palustris,pin oak,Damage,StonesBranchLights,No,No,4465 HYLAN BOULEVARD,Staten Island
+208229,106402,2015-09-07,5,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,1 WEST 81 STREET,Manhattan
+189313,349085,2015-08-30,2,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,98-025 65 ROAD,Queens
+208876,302094,2015-09-08,20,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,Stones,No,No,23-071 28 STREET,Queens
+189570,223043,2015-08-30,27,0,OnCurb,Alive,Fair,Quercus palustris,pin oak,Damage,BranchOther,No,No,587 6 STREET,Brooklyn
+170988,339667,2015-08-24,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,29-011 WESTBOURNE AVENUE,Queens
+178783,222380,2015-08-26,2,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,1528 PUTNAM AVENUE,Brooklyn
+175693,105648,2015-08-25,4,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,30 PARK AVENUE,Manhattan
+190540,106697,2015-08-31,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,RootOther,No,No,255 WEST 92 STREET,Manhattan
+140722,219026,2015-08-12,4,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,345 CLINTON AVENUE,Brooklyn
+161235,339804,2015-08-20,4,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,426 BEACH 40 STREET,Queens
+161242,339804,2015-08-20,3,0,OnCurb,Alive,Poor,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,438 BEACH 40 STREET,Queens
+186060,505600,2015-08-29,17,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,StonesTrunkOther,No,No,4623 PARK AVENUE,Bronx
+180891,342936,2015-08-27,8,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,53-008 97 STREET,Queens
+183381,331371,2015-08-28,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,BranchLights,No,No,144-044 225 STREET,Queens
+166440,348523,2015-08-22,6,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,None,No,No,64-001 FITCHETT STREET,Queens
+134320,337363,2015-08-10,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,221-040 MURDOCK AVENUE,Queens
+168348,226376,2015-08-23,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesBranchOther,No,No,738 WASHINGTON AVENUE,Brooklyn
+201658,348116,2015-09-04,32,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,StonesTrunkOther,No,No,70-004 INGRAM STREET,Queens
+204165,415381,2015-09-05,4,0,OnCurb,Alive,Good,Acer campestre,hedge maple,NoDamage,BranchLights,No,No,168 WOLVERINE STREET,Staten Island
+186817,301700,2015-08-29,4,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,79-001 21 AVENUE,Queens
+198164,311535,2015-09-02,29,0,OnCurb,Alive,Good,Quercus palustris,pin oak,Damage,Stones,No,No,42-094 SAULL STREET,Queens
+196627,310473,2015-09-02,17,0,OnCurb,Alive,Fair,Quercus palustris,pin oak,NoDamage,None,No,No,125-002 QUEENS BOULEVARD,Queens
+208395,106403,2015-09-07,13,0,OffsetFromCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,366 COLUMBUS AVENUE,Manhattan
+191733,310427,2015-08-31,4,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,123-011 82 ROAD,Queens
+209913,108875,2015-09-08,21,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,3000 BROADWAY,Manhattan
+194656,413528,2015-09-01,3,0,OnCurb,Alive,Fair,Quercus palustris,pin oak,Damage,RootOther,No,No,630 ARTHUR KILL ROAD,Staten Island
+192702,206426,2015-08-31,20,0,OnCurb,Alive,Good,Acer rubrum,red maple,NoDamage,None,No,No,6912 17 AVENUE,Brooklyn
+191162,224127,2015-08-31,11,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,Stones,No,No,148 SUMMIT STREET,Brooklyn
+191248,232171,2015-08-31,3,0,OnCurb,Alive,Poor,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,2201 BEDFORD AVENUE,Brooklyn
+189708,223525,2015-08-30,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,209 LINCOLN PLACE,Brooklyn
+201682,515571,2015-09-04,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,719 CRANFORD AVENUE,Bronx
+195151,342130,2015-09-01,3,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,None,No,No,25-015 98 STREET,Queens
+173925,206411,2015-08-25,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,6501 18 AVENUE,Brooklyn
+178756,106241,2015-08-26,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,110 WEST 71 STREET,Manhattan
+163280,107629,2015-08-20,15,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,RootOther,No,No,1500 2 AVENUE,Manhattan
+190420,106099,2015-08-30,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,8 COLUMBUS AVENUE,Manhattan
+190154,300780,2015-08-30,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,WiresRopeTrunkLightsBranchLights,Yes,No,30-010 BROADWAY,Queens
+191273,105425,2015-08-31,8,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,Damage,BranchOther,No,No,139 EAST 23 STREET,Manhattan
+178435,309063,2015-08-26,22,0,OnCurb,Alive,Fair,Ginkgo biloba,ginkgo,Damage,StonesWiresRopeBranchLights,Yes,No,74-023 87 AVENUE,Queens
+180307,338338,2015-08-27,3,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,164 BEACH 97 STREET,Queens
+179475,223106,2015-08-27,16,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,469 7 STREET,Brooklyn
+189401,223528,2015-08-30,20,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,Damage,RootOther,No,No,22 8 AVENUE,Brooklyn
+176850,105341,2015-08-26,7,0,OnCurb,Alive,Fair,Ginkgo biloba,ginkgo,Damage,Stones,No,No,335 2 AVENUE,Manhattan
+191197,310448,2015-08-31,4,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,108 81 AVENUE,Queens
+183942,504242,2015-08-29,3,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,2095 ANTHONY AVENUE,Bronx
+178779,229016,2015-08-26,7,0,OnCurb,Alive,Poor,Ginkgo biloba,ginkgo,Damage,None,No,No,403 AVENUE C,Brooklyn
+189593,223272,2015-08-30,20,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,StonesRootOther,No,No,23 FISKE PLACE,Brooklyn
+200590,306674,2015-09-03,19,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,69-046 183 STREET,Queens
+200604,311557,2015-09-03,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,BranchLights,No,No,131-010 MAPLE AVENUE,Queens
+180266,106095,2015-08-27,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,43 WEST 61 STREET,Manhattan
+206337,224360,2015-09-06,17,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,Stones,No,No,233 KANE STREET,Brooklyn
+206338,224360,2015-09-06,15,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,Stones,No,No,239 KANE STREET,Brooklyn
+190393,107488,2015-08-30,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesBranchLightsBranchOther,No,No,209 EAST 72 STREET,Manhattan
+201558,102919,2015-09-04,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,Stones,No,No,77 STANTON STREET,Manhattan
+205787,106342,2015-09-06,10,0,OnCurb,Alive,Fair,Ginkgo biloba,ginkgo,NoDamage,None,No,No,262 WEST 73 STREET,Manhattan
+205970,301269,2015-09-06,6,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,22-012 75 STREET,Queens
+179537,323451,2015-08-27,13,0,OnCurb,Alive,Fair,Acer rubrum,red maple,Damage,Stones,No,No,195-028 37 AVENUE,Queens
+196492,210467,2015-09-02,37,0,OffsetFromCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,None,No,No,2072 STUART STREET,Brooklyn
+179476,223106,2015-08-27,9,0,OnCurb,Alive,Good,Quercus palustris,pin oak,NoDamage,Stones,No,No,469 7 STREET,Brooklyn
+189590,223272,2015-08-30,24,0,OnCurb,Alive,Fair,Ginkgo biloba,ginkgo,Damage,StonesRootOther,No,No,19 FISKE PLACE,Brooklyn
+191351,347976,2015-08-31,3,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,BranchLights,No,No,89-021 69 ROAD,Queens
+208767,107164,2015-09-08,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,RootOther,No,No,317 EAST 64 STREET,Manhattan
+205734,111960,2015-09-06,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,Stones,No,No,2 RIVERSIDE DRIVE,Manhattan
+201486,338001,2015-09-04,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,231 BEACH 131 STREET,Queens
+203326,340820,2015-09-04,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,35-056 79 STREET,Queens
+179994,216037,2015-08-27,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,179 ECKFORD STREET,Brooklyn
+208322,222858,2015-09-07,10,0,OnCurb,Dead,,,,,,No,No,1691 DEKALB AVENUE,Brooklyn
+178583,308594,2015-08-26,14,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,StonesRootOtherBranchLights,No,No,88-001 74 PLACE,Queens
+187232,218941,2015-08-29,17,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,Stones,No,No,131 FT GREENE PLACE,Brooklyn
+179887,216215,2015-08-27,5,0,OnCurb,Alive,Good,Tilia americana,American linden,NoDamage,None,No,No,204 CALYER STREET,Brooklyn
+200381,408850,2015-09-03,3,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,2086 RICHMOND AVENUE,Staten Island
+198290,313012,2015-09-02,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,140-040 31 DRIVE,Queens
+190087,301004,2015-08-30,8,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesWiresRopeBranchLights,Yes,No,25-010 BROADWAY,Queens
+190421,106099,2015-08-30,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,8 COLUMBUS AVENUE,Manhattan
+181446,208032,2015-08-28,24,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,Stones,No,No,160 IRWIN STREET,Brooklyn
+199062,107043,2015-09-03,4,0,OnCurb,Alive,Good,Malus,crab apple,NoDamage,None,No,No,1880 BROADWAY,Manhattan
+200398,408850,2015-09-03,3,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,2043 RICHMOND AVENUE,Staten Island
+179942,215925,2015-08-27,8,0,OnCurb,Alive,Good,Tilia americana,American linden,NoDamage,None,No,No,280 DRIGGS AVENUE,Brooklyn
+189351,223210,2015-08-30,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,494 1 STREET,Brooklyn
+209058,415850,2015-09-08,6,0,OnCurb,Dead,,,,,,No,No,295 ROMA AVENUE,Staten Island
+196020,506702,2015-09-01,2,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,2728 WEBB AVENUE,Bronx
+205829,213861,2015-09-06,20,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,Stones,No,No,1119 EAST 54 STREET,Brooklyn
+208820,107238,2015-09-08,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,333 EAST 66 STREET,Manhattan
+178606,105607,2015-08-26,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,137 EAST 36 STREET,Manhattan
+200673,229928,2015-09-03,30,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,StonesBranchLights,No,No,1032 EAST 16 STREET,Brooklyn
+186501,505606,2015-08-29,16,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,2438 HOFFMAN STREET,Bronx
+197897,210476,2015-09-02,2,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,WiresRope,Yes,No,810 AVENUE P,Brooklyn
+199051,107043,2015-09-03,4,0,OnCurb,Alive,Good,Malus,crab apple,NoDamage,None,No,No,1870 BROADWAY,Manhattan
+200406,408850,2015-09-03,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,2024 RICHMOND AVENUE,Staten Island
+189459,219493,2015-08-30,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,WiresRope,Yes,No,71 WAVERLY AVENUE,Brooklyn
+189460,219493,2015-08-30,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,77 WAVERLY AVENUE,Brooklyn
+189709,223525,2015-08-30,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,BranchOther,No,No,209 LINCOLN PLACE,Brooklyn
+208761,107164,2015-09-08,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,RootOther,No,No,327 EAST 64 STREET,Manhattan
+190395,107488,2015-08-30,9,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,BranchOther,No,No,203 EAST 72 STREET,Manhattan
+187234,218941,2015-08-29,18,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,Stones,No,No,125 FT GREENE PLACE,Brooklyn
+205785,106342,2015-09-06,10,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,268 WEST 73 STREET,Manhattan
+201410,102977,2015-09-04,3,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,212 FORSYTH STREET,Manhattan
+208760,107164,2015-09-08,17,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,RootOther,No,No,340 EAST 64 STREET,Manhattan
+208763,107164,2015-09-08,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,RootOther,No,No,327 EAST 64 STREET,Manhattan
+189626,223423,2015-08-30,11,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,None,No,No,75 7 AVENUE,Brooklyn
+190394,107488,2015-08-30,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,BranchOther,No,No,203 EAST 72 STREET,Manhattan
+200471,104861,2015-09-03,4,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,MetalGrates,No,No,115 WEST 46 STREET,Manhattan
+179834,102993,2015-08-27,19,0,OffsetFromCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,190 FORSYTH STREET,Manhattan
+180251,106093,2015-08-27,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,31 WEST 60 STREET,Manhattan
+209063,415850,2015-09-08,11,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,286 ROMA AVENUE,Staten Island
+201590,338263,2015-09-04,2,0,OffsetFromCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,2-008 BEACH 108 STREET,Queens
+187054,106107,2015-08-29,9,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,MetalGratesBranchOther,No,No,1880 BROADWAY,Manhattan
+201811,338314,2015-09-04,2,0,OffsetFromCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,104-008 ROCKAWAY BEACH BOULEVARD,Queens
+208863,219320,2015-09-08,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,RootOther,No,No,275 CLASSON AVENUE,Brooklyn
+203597,301947,2015-09-04,0,15,OnCurb,Stump,,,,,,No,No,22-063 37 STREET,Queens
+195995,104413,2015-09-01,3,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesBranchOther,No,No,3 EAST 29 STREET,Manhattan
+190386,107488,2015-08-30,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,RootOtherTrunkOtherBranchOther,No,No,239 EAST 72 STREET,Manhattan
+208819,107238,2015-09-08,12,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,333 EAST 66 STREET,Manhattan
+200697,215932,2015-09-03,10,0,OnCurb,Alive,Good,Tilia americana,American linden,NoDamage,None,No,No,246 DRIGGS AVENUE,Brooklyn
+189599,223168,2015-08-30,3,0,OnCurb,Alive,Good,Tilia americana,American linden,NoDamage,None,No,No,44 PROSPECT PARK WEST,Brooklyn
+187229,104671,2015-08-29,4,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,RootOtherTrunkOtherBranchOther,No,No,301 MADISON AVENUE,Manhattan
+192892,210568,2015-08-31,8,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,BranchLights,No,No,3792 BEDFORD AVENUE,Brooklyn
+206381,105376,2015-09-06,10,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,RootOther,No,No,400 2 AVENUE,Manhattan
+187061,106107,2015-08-29,6,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,MetalGratesTrunkOther,No,No,25 CENTRAL PARK WEST,Manhattan
+189365,223743,2015-08-30,8,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,200 STERLING PLACE,Brooklyn
+161340,230864,2015-08-20,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,1600 CHURCH AVENUE,Brooklyn
+204224,217797,2015-09-05,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,Stones,No,No,296 POWERS STREET,Brooklyn
+190435,106099,2015-08-30,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,132 WEST 60 STREET,Manhattan
+193092,225564,2015-08-31,12,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,367 PROSPECT AVENUE,Brooklyn
+209331,222706,2015-09-08,12,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,1488 GREENE AVENUE,Brooklyn
+200439,102449,2015-09-03,6,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,StonesTrunkOther,No,No,8 HENRY STREET,Manhattan
+180252,106093,2015-08-27,8,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,31 WEST 60 STREET,Manhattan
+180434,229835,2015-08-27,6,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,None,No,No,1600 AVENUE L,Brooklyn
+209045,225648,2015-09-08,6,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,639 4 AVENUE,Brooklyn
+201593,338263,2015-09-04,2,0,OffsetFromCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,2-008 BEACH 108 STREET,Queens
+193069,210437,2015-08-31,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesBranchLights,No,No,2724 QUENTIN ROAD,Brooklyn
+189243,223527,2015-08-30,13,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,StonesRootOtherTrunkOther,No,No,214 ST JOHNS PLACE,Brooklyn
+180516,344567,2015-08-27,9,0,OnCurb,Alive,Poor,Ginkgo biloba,ginkgo,Damage,None,No,No,62-015 MYRTLE AVENUE,Queens
+208860,219320,2015-09-08,17,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,RootOtherTrunkOther,No,No,283 CLASSON AVENUE,Brooklyn
+204033,106892,2015-09-05,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,2681 BROADWAY,Manhattan
+208410,345647,2015-09-07,8,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,StonesTrunkOtherBranchLightsBranchOther,No,No,315 ONDERDONK AVENUE,Queens
+210544,216081,2015-09-08,6,0,OnCurb,Dead,,,,,,No,No,111 DIAMOND STREET,Brooklyn
+170023,100449,2015-08-24,2,0,OffsetFromCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,120 LIBERTY STREET,Manhattan
+189583,219478,2015-08-30,4,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,68 VANDERBILT AVENUE,Brooklyn
+189500,223361,2015-08-30,15,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,925 PRESIDENT STREET,Brooklyn
+189902,223586,2015-08-30,12,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,None,No,No,23 7 AVENUE,Brooklyn
+187294,109688,2015-08-29,9,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesTrunkOtherBranchOther,No,No,110 ST NICHOLAS AVENUE,Manhattan
+192893,210568,2015-08-31,10,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,BranchLights,No,No,2423 QUENTIN ROAD,Brooklyn
+206382,105376,2015-09-06,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,RootOther,No,No,400 2 AVENUE,Manhattan
+189249,223527,2015-08-30,11,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,StonesTrunkOther,No,No,238 ST JOHNS PLACE,Brooklyn
+189251,223527,2015-08-30,7,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,RootOther,No,No,242 ST JOHNS PLACE,Brooklyn
+201817,338314,2015-09-04,2,0,OffsetFromCurb,Alive,Poor,Tilia americana,American linden,NoDamage,None,No,No,103-04 ROCKAWAY BEACH BOULEVARD,Queens
+201819,338314,2015-09-04,2,0,OffsetFromCurb,Alive,Poor,Tilia americana,American linden,NoDamage,None,No,No,102-20 ROCKAWAY BEACH BOULEVARD,Queens
+204025,218365,2015-09-05,3,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,390 MORGAN AVENUE,Brooklyn
+193395,340964,2015-09-01,10,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,34-041 78 STREET,Queens
+210541,216081,2015-09-08,14,0,OnCurb,Alive,Good,Tilia americana,American linden,Damage,None,No,No,93 DIAMOND STREET,Brooklyn
+184749,505305,2015-08-29,3,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,None,No,No,546 EAST 181 STREET,Bronx
+185678,504449,2015-08-29,2,0,OnCurb,Alive,Good,Ulmus americana,American elm,NoDamage,None,No,No,70 EAST 183 STREET,Bronx
+182059,303510,2015-08-28,22,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,Stones,No,No,37-011 47 AVENUE,Queens
+182170,228523,2015-08-28,27,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,Stones,No,No,5414 11 AVENUE,Brooklyn
+188609,107627,2015-08-30,9,0,OnCurb,Dead,,,,,,No,No,413 EAST 79 STREET,Manhattan
+161371,339703,2015-08-20,25,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,StonesBranchLights,No,No,32-024 ANCHOR DRIVE,Queens
+195488,413493,2015-09-01,10,0,OnCurb,Alive,Fair,Acer ginnala,Amur maple,Damage,RootOtherBranchLights,No,No,973 ARMSTRONG AVENUE,Staten Island
+184924,504108,2015-08-29,3,0,OnCurb,Alive,Poor,Ulmus americana,American elm,NoDamage,RootOther,No,No,1936 ANTHONY AVENUE,Bronx
+192294,327484,2015-08-31,37,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,None,No,No,117-024 201 PLACE,Queens
+188761,302394,2015-08-30,17,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,20-056 20 STREET,Queens
+189940,302377,2015-08-30,13,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,20-044 24 STREET,Queens
+163875,208277,2015-08-21,14,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,None,No,No,2847 KNAPP STREET,Brooklyn
+171588,408752,2015-08-24,25,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,BranchLights,No,No,109 ROMAN AVENUE,Staten Island
+181473,106550,2015-08-28,12,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,61 WEST 88 STREET,Manhattan
+179494,349428,2015-08-27,8,0,OnCurb,Alive,Fair,Ulmus americana,American elm,Damage,None,No,No,110-022 COLONIAL AVENUE,Queens
+179651,349433,2015-08-27,17,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,NoDamage,None,No,No,110-022 COLONIAL AVENUE,Queens
+188661,312637,2015-08-30,5,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,33-082 170 STREET,Queens
+188386,302321,2015-08-30,18,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,None,No,No,20-070 27 STREET,Queens
+192037,203632,2015-08-31,29,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,230 90 STREET,Brooklyn
+190115,106491,2015-08-30,17,0,OnCurb,Alive,Good,Quercus phellos,willow oak,Damage,None,No,No,40 WEST 86 STREET,Manhattan
+119244,331240,2015-08-04,18,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,Damage,None,No,No,227-003 145 AVENUE,Queens
+121659,409102,2015-08-05,9,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,NoDamage,None,No,No,86 BOLIVAR STREET,Staten Island
+143237,406298,2015-08-13,16,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,NoDamage,Stones,No,No,302 HAMDEN AVENUE,Staten Island
+132105,228993,2015-08-09,39,0,OnCurb,Alive,Fair,Acer saccharinum,silver maple,Damage,None,No,No,401 EAST 3 STREET,Brooklyn
+118769,102847,2015-08-04,5,0,OnCurb,Alive,Fair,Corylus colurna,Turkish hazelnut,NoDamage,None,No,No,131 NORFOLK STREET,Manhattan
+151575,348457,2015-08-16,25,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,NoDamage,Stones,No,No,86-001 66 AVENUE,Queens
+143026,337054,2015-08-13,32,0,OnCurb,Alive,Fair,Acer saccharinum,silver maple,NoDamage,None,No,No,219-008 138 ROAD,Queens
+165029,322269,2015-08-22,35,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,Damage,Stones,No,No,207-015 36 AVENUE,Queens
+157920,323297,2015-08-18,3,0,OnCurb,Alive,Good,Prunus serotina,black cherry,NoDamage,None,No,No,222-021 KENILWORTH DRIVE,Queens
+131562,349372,2015-08-09,24,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,Damage,RootOther,No,No,102-039 63 AVENUE,Queens
+153022,305766,2015-08-17,19,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,Damage,StonesTrunkOther,No,No,181-018 KILDARE ROAD,Queens
+162964,406867,2015-08-20,16,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,Damage,StonesRootOtherBranchLights,No,No,91 MC VEIGH AVENUE,Staten Island
+159649,315041,2015-08-19,6,0,OnCurb,Alive,Good,Juniperus virginiana,eastern redcedar,NoDamage,StonesBranchLights,No,No,125-007 14 AVENUE,Queens
+164329,312996,2015-08-21,39,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,NoDamage,None,No,No,156-001 33 AVENUE,Queens
+176111,230587,2015-08-26,3,0,OnCurb,Alive,Good,Juniperus virginiana,eastern redcedar,NoDamage,None,No,No,529 EAST 22 STREET,Brooklyn
+178894,222330,2015-08-26,4,0,OnCurb,Alive,Good,Prunus serotina,black cherry,NoDamage,TrunkOtherBranchLights,No,No,816 WYCKOFF AVENUE,Brooklyn
+162178,227513,2015-08-20,20,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,Damage,Stones,No,No,909 AVENUE O,Brooklyn
+73302,340949,2015-07-16,8,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,NoDamage,Stones,No,No,34-015 73 STREET,Queens
+191083,310430,2015-08-31,6,0,OnCurb,Alive,Good,Acer saccharinum,silver maple,NoDamage,None,No,No,107 81 AVENUE,Queens
+163225,349332,2015-08-20,17,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,StonesBranchLights,No,No,62-027 99 STREET,Queens
+184448,505559,2015-08-29,8,0,OffsetFromCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesBranchLights,No,No,469 EAST 184 STREET,Bronx
+203468,348382,2015-09-04,15,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,100-007 70 AVENUE,Queens
+183939,504242,2015-08-29,3,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,Damage,BranchLights,No,No,2090 ANTHONY AVENUE,Bronx
+183941,504242,2015-08-29,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,Stones,No,No,2100 ANTHONY AVENUE,Bronx
+191268,105425,2015-08-31,9,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,157 EAST 23 STREET,Manhattan
+201655,224121,2015-09-04,5,0,OnCurb,Alive,Good,Tilia americana,American linden,NoDamage,None,No,No,293 COLUMBIA STREET,Brooklyn
+189587,223272,2015-08-30,31,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,StonesRootOther,No,No,9 FISKE PLACE,Brooklyn
+180306,338338,2015-08-27,3,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,162 BEACH 97 STREET,Queens
+198018,105722,2015-09-02,8,0,OnCurb,Alive,Poor,Ginkgo biloba,ginkgo,Damage,None,No,No,207 EAST 41 STREET,Manhattan
+198020,105722,2015-09-02,6,0,OnCurb,Alive,Poor,Ginkgo biloba,ginkgo,Damage,None,No,No,655 3 AVENUE,Manhattan
+164685,505190,2015-08-21,4,0,OnCurb,Alive,Fair,Acer platanoides,Norway maple,NoDamage,TrunkOtherBranchOther,No,No,2007 LA FONTAINE AVENUE,Bronx
+170671,339580,2015-08-24,3,0,OnCurb,Alive,Good,Liriodendron tulipifera,tulip-poplar,NoDamage,None,No,No,24-030 BAYSWATER AVENUE,Queens
+162756,503115,2015-08-20,18,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,BranchLights,No,No,990 WOODYCREST AVENUE,Bronx
+179127,348611,2015-08-27,32,0,OnCurb,Alive,Good,Liriodendron tulipifera,tulip-poplar,NoDamage,Stones,No,No,109-005 QUEENS BOULEVARD,Queens
+172273,345563,2015-08-24,12,0,OnCurb,Alive,Poor,Acer platanoides,Norway maple,Damage,StonesBranchLights,No,No,64-013 FOREST AVENUE,Queens
+186754,506584,2015-08-29,21,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,RootOtherTrunkOther,No,No,171 EAST MOSHOLU PARKWAY NORTH,Bronx
+178264,223472,2015-08-26,10,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,None,No,No,726 PRESIDENT STREET,Brooklyn
+178434,321656,2015-08-26,18,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,BranchLights,No,No,246-040 52 AVENUE,Queens
+164151,226000,2015-08-21,14,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,Damage,StonesBranchLights,No,No,697 ST JOHNS PLACE,Brooklyn
+179202,348557,2015-08-27,4,0,OnCurb,Alive,Poor,Acer platanoides,Norway maple,NoDamage,None,No,No,110-033 72 AVENUE,Queens
+175792,341460,2015-08-26,11,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,Stones,No,No,31-015 73 STREET,Queens
+175281,104067,2015-08-25,3,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,None,No,No,549 WEST 54 STREET,Manhattan
+155427,217789,2015-08-18,8,0,OnCurb,Alive,Good,Quercus acutissima,sawtooth oak,NoDamage,None,No,No,400 WYTHE AVENUE,Brooklyn
+176428,310179,2015-08-26,9,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,None,No,No,119-023 84 AVENUE,Queens
+172782,230595,2015-08-25,26,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,None,No,No,419 RUGBY ROAD,Brooklyn
+157533,512109,2015-08-18,12,0,OnCurb,Alive,Poor,Acer platanoides,Norway maple,Damage,BranchLights,No,No,2008 YATES AVENUE,Bronx
+198291,313012,2015-09-02,4,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,140-042 31 DRIVE,Queens
+200363,104837,2015-09-03,10,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,MetalGrates,No,No,107 WEST 45 STREET,Manhattan
+183936,504242,2015-08-29,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,2084 ANTHONY AVENUE,Bronx
+203805,106870,2015-09-05,10,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,322 WEST 102 STREET,Manhattan
+204158,106904,2015-09-05,7,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,Stones,No,No,253 WEST 103 STREET,Manhattan
+208787,107179,2015-09-08,14,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,NoDamage,None,No,No,300 EAST 65 STREET,Manhattan
+189469,219493,2015-08-30,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,146 WAVERLY AVENUE,Brooklyn
+189618,219531,2015-08-30,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,133 HALL STREET,Brooklyn
+205830,213861,2015-09-06,16,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,Stones,No,No,1119 EAST 54 STREET,Brooklyn
+184319,505563,2015-08-29,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,Stones,No,No,4602 3 AVENUE,Bronx
+184168,505595,2015-08-29,2,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,None,No,No,450 EAST 186 STREET,Bronx
+155673,106293,2015-08-18,6,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesWiresRope,Yes,No,170 WEST 73 STREET,Manhattan
+201933,338316,2015-09-04,2,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,105-000 SHORE FRONT PARKWAY,Queens
+208457,312916,2015-09-07,30,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,Stones,No,No,167-011 33 AVENUE,Queens
+208555,219297,2015-09-07,20,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,RootOtherTrunkOther,No,No,224 HALL STREET,Brooklyn
+208866,219320,2015-09-08,16,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,RootOtherTrunkOtherBranchOther,No,No,251 CLASSON AVENUE,Brooklyn
+163101,301359,2015-08-20,8,0,OnCurb,Alive,Fair,Acer platanoides,Norway maple,NoDamage,StonesRootOther,No,No,14-033 31 AVENUE,Queens
+175099,230762,2015-08-25,6,0,OnCurb,Alive,Fair,Liriodendron tulipifera,tulip-poplar,NoDamage,None,No,No,249 EAST 17 STREET,Brooklyn
+135634,323397,2015-08-11,15,0,OnCurb,Alive,Fair,Acer platanoides,Norway maple,Damage,TrunkOther,No,No,34-006 BELL BOULEVARD,Queens
+147189,337147,2015-08-15,12,0,OnCurb,Alive,Fair,Acer platanoides,Norway maple,Damage,None,No,No,135-050 223 STREET,Queens
+166718,319654,2015-08-22,18,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,RootOtherWiresRopeBranchLights,Yes,No,80-050 BELL BOULEVARD,Queens
+138199,226453,2015-08-12,6,0,OnCurb,Alive,Poor,Acer platanoides,Norway maple,Damage,None,No,No,1285 DEAN STREET,Brooklyn
+166477,348128,2015-08-22,22,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,Damage,None,No,No,78-020 KEW FOREST LANE,Queens
+178550,108404,2015-08-26,12,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,None,No,No,38 MORNINGSIDE AVENUE,Manhattan
+185627,301497,2015-08-29,17,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,None,No,No,21-053 79 STREET,Queens
+185670,505336,2015-08-29,3,0,OnCurb,Alive,Good,Acer platanoides,Norway maple,NoDamage,None,No,No,695 EAST 182 STREET,Bronx
+183686,310368,2015-08-29,27,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,StonesTrunkOtherBranchLights,No,No,131-021 86 ROAD,Queens
+192223,415683,2015-08-31,31,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,Damage,StonesBranchLights,No,No,26 DALTON AVENUE,Staten Island
+178385,106001,2015-08-26,19,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,Stones,No,No,520 EAST 20 STREET,Manhattan
+147397,226188,2015-08-15,5,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,RootOther,No,No,716 PROSPECT PLACE,Brooklyn
+178387,106001,2015-08-26,4,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,531 EAST 20 STREET,Manhattan
+186324,505618,2015-08-29,19,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,Stones,No,No,2502 ARTHUR AVENUE,Bronx
+191989,102326,2015-08-31,5,0,OnCurb,Alive,Good,Quercus phellos,willow oak,NoDamage,None,No,No,73 WEST HOUSTON STREET,Manhattan
+203721,302371,2015-09-05,14,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,20-025 24 STREET,Queens
+189332,219520,2015-08-30,16,0,OnCurb,Alive,Fair,Platanus x acerifolia,London planetree,Damage,None,No,No,112 HALL STREET,Brooklyn
+198109,316578,2015-09-02,6,0,OnCurb,Alive,Good,Ulmus americana,American elm,NoDamage,TrunkOtherBranchLights,No,No,87-019 162 AVENUE,Queens
+209105,503965,2015-09-08,10,0,OnCurb,Alive,Poor,Platanus x acerifolia,London planetree,NoDamage,BranchLightsSneakers,No,Yes,1592 JESUP AVENUE,Bronx
+189551,219477,2015-08-30,20,0,OnCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,102 VANDERBILT AVENUE,Brooklyn
+208371,106403,2015-09-07,26,0,OffsetFromCurb,Alive,Good,Platanus x acerifolia,London planetree,NoDamage,None,No,No,392 COLUMBUS AVENUE,Manhattan
+177285,202208,2015-08-26,2,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,191 HENDRIX STREET,Brooklyn
+191378,104299,2015-08-31,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,BranchOther,No,No,127 EAST 23 STREET,Manhattan
+146736,221717,2015-08-15,2,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,None,No,No,1765 BROADWAY,Brooklyn
+147983,211842,2015-08-15,4,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,None,No,No,78 ROCKAWAY AVENUE,Brooklyn
+133750,214291,2015-08-10,4,0,OnCurb,Alive,Fair,Quercus bicolor,swamp white oak,NoDamage,None,No,No,5018 KINGS HIGHWAY,Brooklyn
+172058,348769,2015-08-24,4,0,OnCurb,Alive,Good,Chionanthus retusus,Chinese fringetree,NoDamage,None,No,No,70-05 112 STREET,Queens
+175959,230915,2015-08-26,3,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,None,No,No,113 EAST 21 STREET,Brooklyn
+184715,505565,2015-08-29,4,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,Damage,None,No,No,2385 BATHGATE AVENUE,Bronx
+158050,408871,2015-08-19,3,0,OffsetFromCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,None,No,No,1041 FR CAPODANNO BOULEVARD,Staten Island
+159658,216819,2015-08-19,8,0,OnCurb,Alive,Good,Magnolia grandiflora,southern magnolia,Damage,None,No,No,50 MANHATTAN AVENUE,Brooklyn
+173394,217252,2015-08-25,4,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,None,No,No,355 HEWES STREET,Brooklyn
+185008,504459,2015-08-29,2,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,None,No,No,371 EAST 187 STREET,Bronx
+176563,230970,2015-08-26,2,0,OnCurb,Alive,Fair,Quercus bicolor,swamp white oak,NoDamage,None,No,No,1 LENOX ROAD,Brooklyn
+170024,100449,2015-08-24,3,0,OffsetFromCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,124 LIBERTY STREET,Manhattan
+186382,505284,2015-08-29,3,0,OnCurb,Alive,Fair,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,2080 LA FONTAINE AVENUE,Bronx
+175704,105612,2015-08-25,4,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,None,No,No,23 PARK AVENUE,Manhattan
+185163,339797,2015-08-29,4,0,OnCurb,Alive,Fair,Liquidambar styraciflua,sweetgum,NoDamage,None,No,No,306 BEACH 68 STREET,Queens
+185164,339797,2015-08-29,4,0,OnCurb,Alive,Fair,Liquidambar styraciflua,sweetgum,Damage,None,No,No,306 BEACH 68 STREET,Queens
+165625,216071,2015-08-22,11,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,Stones,No,No,107 NEWEL STREET,Brooklyn
+181202,226310,2015-08-27,4,0,OffsetFromCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,532 ST MARKS AVENUE,Brooklyn
+183359,226313,2015-08-28,10,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,StonesRootOther,No,No,643 FRANKLIN AVENUE,Brooklyn
+145055,101051,2015-08-14,1,0,OnCurb,Alive,Poor,Styphnolobium japonicum,Sophora,NoDamage,RootOtherTrunkOtherBranchOther,No,No,157 HESTER STREET,Manhattan
+167230,348637,2015-08-22,13,0,OnCurb,Alive,Fair,Styphnolobium japonicum,Sophora,Damage,None,No,No,64-024 BOELSEN CRESCENT,Queens
+178930,345360,2015-08-26,18,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,StonesBranchLights,No,No,2046 PALMETTO STREET,Queens
+180333,303332,2015-08-27,5,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,37-001 48 AVENUE,Queens
+172663,349995,2015-08-25,12,0,OnCurb,Alive,Fair,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,2-007 BEACH 13 STREET,Queens
+208791,107179,2015-09-08,5,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,320 EAST 65 STREET,Manhattan
+208793,107179,2015-09-08,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,330 EAST 65 STREET,Manhattan
+194260,102855,2015-09-01,4,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,339 EAST HOUSTON STREET,Manhattan
+184166,505595,2015-08-29,2,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,None,No,No,442 EAST 186 STREET,Bronx
+188408,340716,2015-08-30,10,0,OnCurb,Alive,Good,Pyrus calleryana,Callery pear,NoDamage,BranchOther,No,No,76-002 37 AVENUE,Queens
+165046,412972,2015-08-22,6,0,OnCurb,Alive,Good,Pyrus calleryana,Callery pear,NoDamage,BranchLights,No,No,83 STAFFORD AVENUE,Staten Island
+194919,227482,2015-09-01,12,0,OnCurb,Alive,Good,Pyrus calleryana,Callery pear,NoDamage,None,No,No,1567 EAST 3 STREET,Brooklyn
+200201,406819,2015-09-03,11,0,OnCurb,Alive,Good,Pyrus calleryana,Callery pear,Damage,None,No,No,118 ALBERTA AVENUE,Staten Island
+200210,406819,2015-09-03,8,0,OnCurb,Alive,Good,Pyrus calleryana,Callery pear,NoDamage,None,No,No,152 ALBERTA AVENUE,Staten Island
+181351,302224,2015-08-27,17,0,OnCurb,Alive,Good,Pyrus calleryana,Callery pear,Damage,StonesBranchLights,No,No,35-015 20 AVENUE,Queens
+174172,408885,2015-08-25,5,0,OnCurb,Alive,Fair,Pyrus calleryana,Callery pear,NoDamage,None,No,No,440 SEAVIEW AVENUE,Staten Island
+189839,311123,2015-08-30,9,0,OnCurb,Alive,Good,Pyrus calleryana,Callery pear,NoDamage,BranchLights,No,No,138-006 56 AVENUE,Queens
+189403,108374,2015-08-30,11,0,OnCurb,Alive,Fair,Pyrus calleryana,Callery pear,Damage,None,No,No,401 WEST 118 STREET,Manhattan
+210535,502705,2015-09-08,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,1745 BATHGATE AVENUE,Bronx
+120819,103619,2015-08-05,3,0,OnCurb,Alive,Fair,Quercus bicolor,swamp white oak,NoDamage,None,No,No,548 WEST 22 STREET,Manhattan
+163121,223261,2015-08-20,3,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,WiresRope,Yes,No,269 6 STREET,Brooklyn
+163122,223261,2015-08-20,3,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,WiresRope,Yes,No,363 4 AVENUE,Brooklyn
+181988,229945,2015-08-28,12,0,OnCurb,Alive,Fair,Quercus coccinea,scarlet oak,Damage,Stones,No,No,1921 AVENUE K,Brooklyn
+189412,108374,2015-08-30,7,0,OnCurb,Dead,,,,,,No,No,421 WEST 118 STREET,Manhattan
+175957,230915,2015-08-26,2,0,OnCurb,Alive,Poor,Quercus bicolor,swamp white oak,NoDamage,None,No,No,113 EAST 21 STREET,Brooklyn
+163721,337786,2015-08-21,4,0,OnCurb,Alive,Poor,Quercus bicolor,swamp white oak,NoDamage,RootOtherTrunkOtherBranchOther,No,No,184 BEACH 145 STREET,Queens
+163722,337786,2015-08-21,5,0,OnCurb,Alive,Poor,Quercus bicolor,swamp white oak,NoDamage,RootOtherTrunkOtherBranchOther,No,No,190 BEACH 145 STREET,Queens
+179765,230466,2015-08-27,16,0,OnCurb,Alive,Good,Quercus coccinea,scarlet oak,NoDamage,None,No,No,2676 BEDFORD AVENUE,Brooklyn
+149749,216492,2015-08-16,5,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,None,No,No,191 DUPONT STREET,Brooklyn
+171159,223238,2015-08-24,3,0,OnCurb,Alive,Good,Quercus bicolor,swamp white oak,NoDamage,None,No,No,349 5 AVENUE,Brooklyn
+179530,230011,2015-08-27,4,0,OnCurb,Alive,Good,Quercus coccinea,scarlet oak,NoDamage,None,No,No,1710 AVENUE I,Brooklyn
+189526,223109,2015-08-30,4,0,OnCurb,Dead,,,,,,No,No,242 7 AVENUE,Brooklyn
+196477,210467,2015-09-02,32,0,OffsetFromCurb,Alive,Good,Quercus coccinea,scarlet oak,NoDamage,None,No,No,2134 STUART STREET,Brooklyn
+183944,504242,2015-08-29,3,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,210 EAST 181 STREET,Bronx
+186502,505606,2015-08-29,18,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,Stones,No,No,2450 HOFFMAN STREET,Bronx
+199052,107043,2015-09-03,4,0,OffsetFromCurb,Alive,Good,Malus,crab apple,NoDamage,None,No,No,1870 BROADWAY,Manhattan
+205036,206800,2015-09-05,14,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,BranchOther,No,No,170 BAY 40 STREET,Brooklyn
+208762,107164,2015-09-08,12,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,RootOther,No,No,327 EAST 64 STREET,Manhattan
+180435,344467,2015-08-27,9,0,OnCurb,Alive,Fair,Ginkgo biloba,ginkgo,NoDamage,Stones,No,No,64-016 MYRTLE AVENUE,Queens
+184561,505136,2015-08-29,15,0,OnCurb,Alive,Good,Chamaecyparis thyoides,Atlantic white cedar,NoDamage,None,No,No,4226 3 AVENUE,Bronx
+191999,314722,2015-08-31,2,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,128-011 18 AVENUE,Queens
+209062,415850,2015-09-08,8,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,286 ROMA AVENUE,Staten Island
+203313,207694,2015-09-04,11,0,OnCurb,Alive,Good,Quercus velutina,black oak,NoDamage,StonesBranchLights,No,No,46 BAY 43 STREET,Brooklyn
+170507,100329,2015-08-24,11,0,OnCurb,Alive,Good,Zelkova serrata,Japanese zelkova,NoDamage,None,No,No,21 SOUTH END AVENUE,Manhattan
+192803,102227,2015-08-31,5,0,OnCurb,Alive,Good,Zelkova serrata,Japanese zelkova,NoDamage,None,No,No,319 WEST 13 STREET,Manhattan
+199737,229823,2015-09-03,9,0,OnCurb,Alive,Poor,Zelkova serrata,Japanese zelkova,Damage,None,No,No,1600 AVENUE L,Brooklyn
+208218,219258,2015-09-07,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,BranchOther,No,No,250 CARLTON AVENUE,Brooklyn
+187260,109131,2015-08-29,7,0,OnCurb,Alive,Good,Tilia americana,American linden,NoDamage,BranchOther,No,No,131 ST NICHOLAS AVENUE,Manhattan
+156710,108138,2015-08-18,4,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,StonesBranchOther,No,No,175 EAST 92 STREET,Manhattan
+175313,230886,2015-08-25,7,0,OnCurb,Alive,Fair,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,157 EAST 21 STREET,Brooklyn
+163815,102980,2015-08-21,4,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,753 EAST 6 STREET,Manhattan
+188530,340780,2015-08-30,5,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,35-015 75 STREET,Queens
+178804,228992,2015-08-26,2,0,OnCurb,Alive,Good,Liquidambar styraciflua,sweetgum,NoDamage,None,No,No,201 AVENUE C,Brooklyn
+175294,104067,2015-08-25,6,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,505 WEST 54 STREET,Manhattan
+184820,504498,2015-08-29,6,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,None,No,No,2306 MORRIS AVENUE,Bronx
+192393,310382,2015-08-31,15,0,OnCurb,Alive,Poor,Styphnolobium japonicum,Sophora,Damage,Stones,No,No,83-033 AUSTIN STREET,Queens
+165000,412922,2015-08-22,9,0,OnCurb,Alive,Good,Liquidambar styraciflua,sweetgum,Damage,StonesBranchLights,No,No,106 STAFFORD AVENUE,Staten Island
+163896,226194,2015-08-21,12,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,StonesRootOtherTrunkOtherBranchLights,No,No,1440 BEDFORD AVENUE,Brooklyn
+156127,339798,2015-08-18,6,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,352 BEACH 68 STREET,Queens
+204212,204913,2015-09-05,2,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,None,No,No,8815 25 AVENUE,Brooklyn
+178415,202259,2015-08-26,7,0,OffsetFromCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,73 NEW JERSEY AVENUE,Brooklyn
+187057,106107,2015-08-29,8,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,MetalGratesTrunkOther,No,No,1 WEST 62 STREET,Manhattan
+190383,107601,2015-08-30,10,0,OnCurb,Alive,Fair,Tilia americana,American linden,Damage,BranchOther,No,No,1290 3 AVENUE,Manhattan
+190208,345713,2015-08-30,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,None,No,No,2149 HARMAN STREET,Queens
+210539,216081,2015-09-08,10,0,OnCurb,Alive,Fair,Tilia americana,American linden,NoDamage,Stones,No,No,163 NASSAU AVENUE,Brooklyn
+190433,106099,2015-08-30,9,0,OnCurb,Alive,Fair,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,132 WEST 60 STREET,Manhattan
+176350,105351,2015-08-26,6,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesBranchOther,No,No,323 EAST 21 STREET,Manhattan
+196606,108890,2015-09-02,13,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,415 RIVERSIDE DRIVE,Manhattan
+162814,103069,2015-08-20,3,0,OnCurb,Alive,Fair,Styphnolobium japonicum,Sophora,NoDamage,MetalGrates,No,No,628 EAST 9 STREET,Manhattan
+188754,229018,2015-08-30,3,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,None,No,No,4801 8 AVENUE,Brooklyn
+169991,231808,2015-08-24,8,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,None,No,No,104 EAST 28 STREET,Brooklyn
+181198,226310,2015-08-27,2,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,NoDamage,RootOther,No,No,500 ST MARKS AVENUE,Brooklyn
+208989,302090,2015-09-08,2,0,OnCurb,Alive,Good,Tilia americana,American linden,NoDamage,None,No,No,23-015 24 STREET,Queens
+204209,204913,2015-09-05,2,0,OnCurb,Alive,Poor,Ginkgo biloba,ginkgo,Damage,None,No,No,8813 25 AVENUE,Brooklyn
+173021,339974,2015-08-25,3,0,OnCurb,Alive,Fair,Ginkgo biloba,ginkgo,Damage,None,No,No,468 BEACH 22 STREET,Queens
+190203,301040,2015-08-30,17,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,WiresRopeBranchLights,Yes,No,23-017 BROADWAY,Queens
+200680,311712,2015-09-03,38,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesWiresRopeBranchLights,Yes,No,41-28 HAIGHT STREET,Queens
+183602,301456,2015-08-29,12,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,Stones,No,No,22-072 46 STREET,Queens
+201818,338314,2015-09-04,2,0,OffsetFromCurb,Alive,Poor,Tilia americana,American linden,NoDamage,None,No,No,103-02 ROCKAWAY BEACH BOULEVARD,Queens
+204024,218365,2015-09-05,3,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,400 MORGAN AVENUE,Brooklyn
+193394,340964,2015-09-01,9,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,34-041 78 STREET,Queens
+195249,102084,2015-09-01,15,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,StonesBranchOther,No,No,130 WEST 11 STREET,Manhattan
+208919,302092,2015-09-08,12,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,StonesBranchLights,No,No,23-004 CRESCENT STREET,Queens
+190437,106099,2015-08-30,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,NoDamage,None,No,No,155 WEST 60 STREET,Manhattan
+208200,219258,2015-09-07,13,0,OnCurb,Alive,Good,Ginkgo biloba,ginkgo,Damage,Stones,No,No,20 WILLOUGHBY AVENUE,Brooklyn
+209557,503968,2015-09-08,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,RootOtherBranchOther,No,No,1615 GRAND AVENUE,Bronx
+182847,221481,2015-08-28,6,0,OnCurb,Alive,Fair,Ginkgo biloba,ginkgo,NoDamage,MetalGrates,No,No,854 MYRTLE AVENUE,Brooklyn
+210642,104029,2015-09-08,11,0,OnCurb,Alive,Good,Gleditsia triacanthos var. inermis,honeylocust,Damage,Stones,No,No,842 9 AVENUE,Manhattan
+153586,230993,2015-08-17,8,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,None,No,No,226 ARGYLE ROAD,Brooklyn
+171066,230879,2015-08-24,3,0,OnCurb,Alive,Good,Quercus alba,white oak,NoDamage,None,No,No,911 FLATBUSH AVENUE,Brooklyn
+184051,505530,2015-08-29,10,0,OnCurb,Alive,Good,Styphnolobium japonicum,Sophora,Damage,None,No,No,605 EAST 188 STREET,Bronx
+171519,406551,2015-08-24,3,0,OnCurb,Alive,Good,Quercus alba,white oak,NoDamage,None,No,No,480 LIBERTY AVENUE,Staten Island
+198323,411849,2015-09-02,11,0,OnCurb,Alive,Good,Liquidambar styraciflua,sweetgum,Damage,None,No,No,105 RAMONA AVENUE,Staten Island
